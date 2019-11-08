@@ -1,2 +1,2 @@
 # textgame_python-
-## This text-based adventure game was assigned by Udacity's Intro to Programming Course! 
+## This is a text-based adventure game in Python, titled "Zombie Pets!"
