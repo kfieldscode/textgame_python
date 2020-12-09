@@ -1,4 +1,4 @@
-# textgame_python-
+# Text Adventure Game
 ## This is a text-based adventure game in Python, titled "Zombie Pets!"
 
 This is one of my first Python projects! Titled "Zombie Pets", this is a text-based adventure game where you must save yourself from zomebies. But not just any zombies, PET ZOMBIES.
